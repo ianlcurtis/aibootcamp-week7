@@ -1,0 +1,21 @@
+{
+  "messages": [
+      {
+          "content": "I need some data on the latest trends in renewable energy.", 
+          "role": "user", 
+          "context": ""
+      },
+      {
+        "content": "Sure, I can help with that. Here are some key trends in renewable energy:\n1. **Solar Power Growth**: Solar energy continues to grow rapidly, with advancements in technology and decreasing costs.\n2. **Wind Energy Expansion**: Wind power is expanding, especially offshore wind farms.\n3. **Energy Storage**: Improvements in battery technology are making energy storage more viable.\n4. **Green Hydrogen**: Hydrogen produced using renewable energy is gaining attention as a clean fuel.\n5. **Policy Support**: Governments worldwide are implementing policies to support renewable energy adoption.", 
+        "role": "assistant", 
+        "context": {
+            "citations": [
+                {
+                    "id": "1",
+                    "content": "123"
+                }
+            ]
+        }
+    }
+  ]
+}
