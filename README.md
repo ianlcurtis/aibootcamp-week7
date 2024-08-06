@@ -1,5 +1,5 @@
 # AI Bootcamp Week 7 Notebooks
-Notebooks to demonstrate the following:
+Covering productionising of GenAI applications, the notebooks demonstrate the following:
 1. Evaluation with prompt flow SDK.
 2. Content moderation through the REST API.
 3. Groundedness detection through the REST API.
